@@ -1,5 +1,5 @@
 "use client"
-import './Gone.css';
+import '../Gone.css';
 import { useRef, useEffect } from 'react';
 
 
