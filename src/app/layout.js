@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           </div>
           <div className="menu-items">
             <li><Link href="/">Home</Link></li>
-            <li><Link href="/components/new">Rated</Link></li>
+            <li><Link href="/new">Rated</Link></li>
             <li><Link href="/search">Browse</Link></li>
           </div>
         </div>
